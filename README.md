@@ -32,4 +32,4 @@
 
 ---
 
-<h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/QeQ6BRx.png" width="25" /> </h2> 
+<h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /> </h2> 
