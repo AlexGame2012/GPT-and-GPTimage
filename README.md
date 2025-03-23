@@ -1,20 +1,3 @@
-<style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: white; /* Цвет заголовков */
-        }
-        p {
-            color: white; /* Цвет текста абзацев */
-        }
-    </style>
-</head>
-<body>
 
 <h1>Russian</h1>
 
