@@ -1,9 +1,4 @@
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bot Info</title>
-    <style>
+<style>
         body {
             background-color: black;
             color: white;
@@ -56,6 +51,3 @@
 ---
 
 <h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /></h2>
-
-</body>
-</html>
