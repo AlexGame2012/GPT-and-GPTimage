@@ -6,27 +6,29 @@
   <p> 1) Бот основан на GPT OpenAI, DeepSeek и др.</p>
   <p> 2) Присутствует распознование фото животного.</p>
  
-<h2>Вклад</h2>
+<h3>Вклад</h3>
 
-Если вы хотите внести свой вклад, пожалуйста, создайте форк репозитория и отправьте пулл-реквест с вашими изменениями.
+<p>Если вы хотите внести свой вклад, пожалуйста, создайте форк репозитория и отправьте пулл-реквест с вашими изменениями.</p>
 
-## Лицензия
+<h3>Лицензия</h3>
 
-Этот проект лицензирован под Apache 2.0.
+<p>Этот проект лицензирован под Apache 2.0.</p>
 
-## English 
+<h1> English </h1>
 
-## About the bot
+<h3> About the bot </h1>
 
- The bot is made for the purpose of use and is not responsible for G4F
- 1) Bot basics on GPT OpenAI, DeepSeek, etc.
-## Contribution
+<p> The bot is made for the purpose of use and is not responsible for G4F </p>
+ <p> 1) The bot is based on GPT OpenAI, DeepSeek, etc.</p>
+ <p> 2) Animal photo recognition is present.</p>
+ 
+<h3>Contribution</h3>
 
-If you want to contribute, please create a fork of the repository and send a pull request with your changes.
+<p>If you want to contribute, please create a fork of the repository and send a pull request with your changes.</p>
 
-## License
+<h3>License</h3>
 
-This project is licensed under Apache 2.0.
+<p>This project is licensed under Apache 2.0.</p>
 
 ---
 
