@@ -1,11 +1,34 @@
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bot Info</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: white; /* Цвет заголовков */
+        }
+        p {
+            color: white; /* Цвет текста абзацев */
+        }
+    </style>
+</head>
+<body>
+
 <h1>Russian</h1>
 
-<h3> О боте </h1>
+<h3>О боте</h3>
 
-<p> Бот сделан в целях пользования и не несет ответственность за G4F </p>
-  <p> 1) Бот основан на GPT OpenAI, DeepSeek и др.</p>
-  <p> 2) Присутствует распознование фото животного.</p>
- 
+<p>Бот сделан в целях пользования и не несет ответственность за G4F.</p>
+<p>1) Бот основан на GPT OpenAI, DeepSeek и др.</p>
+<p>2) Присутствует распознавание фото животного.</p>
+
 <h3>Вклад</h3>
 
 <p>Если вы хотите внести свой вклад, пожалуйста, создайте форк репозитория и отправьте пулл-реквест с вашими изменениями.</p>
@@ -14,14 +37,14 @@
 
 <p>Этот проект лицензирован под Apache 2.0.</p>
 
-<h1> English </h1>
+<h1>English</h1>
 
-<h3> About the bot </h1>
+<h3>About the bot</h3>
 
-<p> The bot is made for the purpose of use and is not responsible for G4F </p>
- <p> 1) The bot is based on GPT OpenAI, DeepSeek, etc.</p>
- <p> 2) Animal photo recognition is present.</p>
- 
+<p>The bot is made for the purpose of use and is not responsible for G4F.</p>
+<p>1) The bot is based on GPT OpenAI, DeepSeek, etc.</p>
+<p>2) Animal photo recognition is present.</p>
+
 <h3>Contribution</h3>
 
 <p>If you want to contribute, please create a fork of the repository and send a pull request with your changes.</p>
@@ -32,4 +55,7 @@
 
 ---
 
-<h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /> </h2> 
+<h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /></h2>
+
+</body>
+</html>
