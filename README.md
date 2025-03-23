@@ -34,6 +34,6 @@
 
 <div style="background-color: #f0f0f0; padding: 10px;">
   
- <span style="color: white;"><h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /></h2></span>
+<h2>© AlexStudio Code 2025 <img src="https://i.imgur.com/UQkLmPL.png" width="25" /></h2>
 
 </div>
